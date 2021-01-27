@@ -1,4 +1,5 @@
 # Tasksboard
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cda48e12-4dee-46bd-9d58-95fb64651dbb/deploy-status)](https://app.netlify.com/sites/taskboards/deploys)
 Efficient task management platform where tasks are organized by boards. Made with React, Redux and material-ui.
 ![Screenshot 1](https://user-images.githubusercontent.com/33364898/106013408-6e0aa980-60e2-11eb-871b-69c088c7ce51.png)
 ![Screenshot 2](https://user-images.githubusercontent.com/33364898/106014017-0d2fa100-60e3-11eb-98c4-02d94289a6a2.png)
